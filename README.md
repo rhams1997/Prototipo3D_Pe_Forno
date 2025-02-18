@@ -3,7 +3,7 @@
 ## 📌 Descrição
 
 Este projeto consiste num protótipo 3D desenvolvido no **OpenSCAD**, com o objetivo de criar suportes para os pés de um forno. O propósito principal destes suportes é evitar o contato direto dos pés do forno com o solo, prevenindo assim a **oxidação** e prolongando a sua durabilidade.
-
+## Download do modelo 3D: https://www.thingiverse.com/thing:6953145
 ## 🔹 Características
 
 - **🛠️ Material recomendado:** PLA, ABS ou PETG  
